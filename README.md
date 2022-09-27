@@ -1,8 +1,8 @@
-**_¿Qué es Opera?_**  
-<dl>
-  <dt>¿Qué es Opera?</dt>
+<center> <h1>PHP</h1> </center>
 
-- [ ] **Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.
+## `Historia de PHP`   
+**_¿Qué es Opera?_**  
+- [ ] **Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
 
 <dl>
   <dt>¿Cuándo se desarrollo Opera? </dt>
