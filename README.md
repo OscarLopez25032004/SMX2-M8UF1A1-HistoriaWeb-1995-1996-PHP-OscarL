@@ -1,20 +1,12 @@
 <center> <h1>PHP</h1> </center>
 
 ## `Historia de PHP`   
-**_¿Qué es Opera?_**  
-- [ ] **Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
-
-<dl>
-  <dt>¿Cuándo se desarrollo Opera? </dt>
-
-- [ ] Se estrenó el **10 de Abril de 1995** teniendo una licencia freeware, es decir que no hay que pagar por su licencia.
-
-<dl>
-  <dt>¿Cómo se desarrollo Opera?</dt>
-
-- [ ] Se desarrolló gracias al lenguaje de programación **C++**.
-
-<dl>
-  <dt>¿Quién desarrollo Opera?</dt>
-
-- [ ] Lo desarrollo Hakon Wium Lie en el año 1995 como proyecto de investigación en Telenor, aunque después la empresa se ramificó i quedó como Opera Software.
+**_¿Qué es PHP?_**  
+- [ ] Actualmente, **PHP** és un lenguaje de programación enfocado al desarollo web.   
+**_¿Para que se creo PHP?_**  
+- [ ] **PHP** se creó para el rastreo de las visitas al currículum online personal.   
+**_¿Cuando se creó PHP?_**  
+- [ ] **PHP** se empezó a desarrollar en 1994, peró apareció públicamente en 1995.   
+**_¿Quien desarrolló PHP?_**  
+- [ ] Lo desarrolló el programador **Rasmus Lerdorf**.   
+<div style="text-align: right"> your-text-here </div>
