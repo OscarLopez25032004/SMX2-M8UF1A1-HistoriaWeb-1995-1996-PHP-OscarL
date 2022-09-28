@@ -17,5 +17,5 @@
 **_Otras características:_**  
 | ¿Es freeware? | ¿Porque está siempre desarrollándose? | ¿Donde se aplica PHP? |
 |--------|:--------:|---------:|
-| **Si**, es de codigo abierto. | Por una comunidad de **programadores actica y comprometida**. | Se aplica principalmente en servidores web para que estos procesen la información antes de cargarla al usuario. |
+| **Si**, es de codigo abierto. | Por una comunidad de **programadores activa y comprometida**. | Se aplica principalmente en servidores web para que estos procesen la información antes de cargarla al usuario. |
 -------------------------------------------------
