@@ -11,3 +11,4 @@
 - [ ] **PHP** se empezó a desarrollar en 1994, peró apareció públicamente en 1995.   
 **_¿Quien desarrolló PHP?_**  
 - [ ] Lo desarrolló el programador **Rasmus Lerdorf**.   
+![Rasmus Lerdorf](https://github.com/OscarLopez25032004/SMX2-M8UF1A1-HistoriaWeb-1995-1996-PHP-OscarL/blob/main/2326296360_426b2d3726.jpg "Rasmus Lerdorf")
