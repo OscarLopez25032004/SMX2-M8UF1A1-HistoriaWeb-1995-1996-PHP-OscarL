@@ -1,7 +1,8 @@
 <center> <h1>PHP</h1> </center>
 
 ## `Historia de PHP`   
-**_¿Qué es PHP?_**  
+<dl>
+  <dt>¿Qué es PHP?</dt> 
 - [ ] Actualmente, **PHP** és un lenguaje de programación enfocado al desarollo web.   
 **_¿Para que se creo PHP?_**  
 - [ ] **PHP** se creó para el rastreo de las visitas al currículum online personal.   
